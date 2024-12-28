@@ -1,0 +1,21 @@
+body{
+    background-color: lightpink;
+    border: 2px solid black;
+    dsiplay: flow-root;
+}
+#img1{
+    float: right;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#img2{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+}

@@ -1,0 +1,20 @@
+body{
+    font-size: 10em;
+}
+a:link{
+    color: red;
+    text-decoration: none;
+}
+a:visited{
+    color: green;
+    text-decoration: none;
+}
+a:active{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+    text-decoration: none;
+    font-size: 20px;
+}
